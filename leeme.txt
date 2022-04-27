@@ -1,0 +1,19 @@
+#########################################################################################
+#  Dev And Design: Full Stack React, Node & MongoDB - Build A Sign Up Application (React, Node.js, Express and MongoDB)
+#  https://www.youtube.com/watch?v=SQqSMDIzhaE
+#  React + NodeJS (Express) + Mongoose + MongoDB  [Server & Client]
+#########################################################################################
+
+cd XX
+npx create-react-app signupfront
+cd signupfront
+mkdir signupbackend
+cd signupbackend
+npm init -y
+npm install express nodemon mongoose dotenv cors
+npm run start
+
+
+**************
+#BackEnd [ 02:10 - 37:14]
+Connection process at:  25:00   [18:00-25:50]
